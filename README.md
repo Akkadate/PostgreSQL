@@ -45,10 +45,9 @@ host    all             all             0.0.0.0/0            md5
 host    all             all             ::/0                 md5
 ```
 ```
-
-```
-```
 sudo systemctl restart postgresql
+```
+```
 sudo systemctl enable postgresql
 ```
 ```
