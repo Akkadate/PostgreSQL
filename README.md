@@ -1,10 +1,12 @@
 # PostgreSQL
 ```
-
 sudo apt update
+```
+```
 sudo apt install postgresql postgresql-contrib
+```
+```
 apt install net-tools
-
 ```
 sudo -u postgres psql postgres
  \password postgres
